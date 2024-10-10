@@ -19,4 +19,4 @@ I am studying to be a programmer at the Fevzi Yakubov KIPU <img src="https://med
 ### My social networks: 
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=vkontakte)](https://vk.com/ventaki)
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=vkontakte)](https://discrod.com/opa_x1opa)
-[![Steam](https://img.shields.io/badge/-STEAM-000000?style=for-the-badge&logo=steam)](https://discrod.com/opa_x1opa)
+[![Steam](https://img.shields.io/badge/-STEAM-000000?style=for-the-badge&logo=steam)](https://steamcommunity.com/profiles/76561199101933795/)
